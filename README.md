@@ -10,7 +10,10 @@ Most of my projects are available as repositories on my github profile. [Portfol
 
 ### Portfolio
 
+#### Commercial
 - Full development of Fundacja Kontent page, including custom CMS and markup language; layout designed in close cooperation with the editorial team for the Kontent journal - [kontent.net.pl](https://kontent.net.pl)
+
+#### Private and example projects
 - Simple page with minor business in mind - [portfolio1](https://github.com/pmbytner/portfolio1_simpleBizPage)
 
 ## My professional experience
@@ -38,7 +41,7 @@ Most of my projects are available as repositories on my github profile. [Portfol
 
 ### Past or minor experience
 
-- **OSes**: Linux (Mandriva, Ubuntu), Windows (98, XP, 7)
+- Familiarity with Linux
 - **Programming languages**: C, C++, Logo, Pascal, PHP, Python, PowerShell, Scratch, SQL, Wolfram Language
 - **Specialised software**: Wolfram Mathematica
 - **Other**: WinSCP
@@ -69,3 +72,11 @@ Most of my projects are available as repositories on my github profile. [Portfol
 - Chrome user, LibreWolf-curious
 - One should learn algorythmics and math
 - You should respect social sciences
+
+## Fun facts about me
+- Once in preschool I've got my picture "stolen" by the teacher to be exhibited in the class - for the "crime" of drawing buildings in correct perspective
+- During primary school in a local ecology competition for recycling I won a t-shirt - it was ugly and to big for me :/
+- In middle school I represented mine in a regional team maths competition, getting 3rd place
+- Also in middle school, I've attended voivodeship-level chemistry olympics
+- In highschool I've got 1st place in regional maths competition and 2nd place in competition about anglosphere countries trivia
+- Got complimented by my master thesis supervisor for the lack of need for linguistic correction in my drafts
