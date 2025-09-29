@@ -2,7 +2,7 @@
 
 ## About me
 
-I am mathematics major with over 8 year proffesional experience as academic teacher and minor scientific accomplishments. Teaching mainly computer science students on math, informatics and UX. Due to natural curiosity I am knowledgable in many fields, having dabbled with chemistry (attending an olympiad) in the middle school and physics in the high school.
+I am mathematician with master's degree and over 8 year proffesional experience as academic teacher and minor scientific accomplishments. Teaching mainly computer science students on math, informatics and UX. Due to natural curiosity I am knowledgable in many fields, having dabbled with chemistry (attending an olympiad) in the middle school and physics in the high school.
 
 ## My projects
 
